@@ -41,9 +41,9 @@ Le paladium peut être découvert dans le sol et au sein des grottes, générale
 
 Il est possible de trouver du findium dans les grottes, et dans le sol, typiquement en filons de 1 à 4 blocs. Ce minerai est habituellement présent dans les couches comprises entre ? et ?.
 
-| Objet | Icône | Obtention                                                                                                            |
+| Objet | Icône | Obtention |
 | --------- |--------------|----------------------------------------------------------------------------------------------------------------------|
-| **Minerai de findium**<br/>_findium ore_  | image soon.. | - dans le sol à partir de la couche ??                                                                               |
+| **Minerai de findium**<br/>_findium ore_  | image soon.. | - dans le sol à partir de la couche ?? |
 | **Lingot de findium**<br/>_findium ingot_  | image soon.. | - après avoir pioché le minerai<br/>- en récompense de quête<br/>- lors d’événement<br/>dans le shop a partie de ???? $ |
 | **Bloc de findium**<br/>_findium block_  | image soon.. | - à partir du craft de 9 lingots<br/>- en récompense de quête<br/>- lors d’événement|
 
@@ -61,3 +61,14 @@ Le paladium vert peut être découvert dans le sol et les grottes, par filons de
 ## 6. Endium
 
 L'endium figure parmi les minerais les plus rares du jeu. Il n'est pas disponible sous forme de minerai dans le monde normal, mais peut être obtenu via les métiers. Des récompenses d'événements ou de quêtes peuvent également inclure de l'endium.
+
+| Objet | Icône | Obtention |
+| -------- |--------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Minerai d'endium nugget**<br/>_endium nuggets ore_ | image soon.. | - soon.. |
+| **Fragment d'endium**<br/>_endium fragment_  | image soon.. | - droppé par les boss |
+| **Pépite d'endium**<br/>_endium nugget_ | image soon.. | - via les différents métiers<br/>- à partir du craft de 9 fragments d’endium<br/>- en récompense de quête<br/>- lors d’événement |
+| **Lingot d'endium**<br/>_endium ingot_ | image soon.. | - à partir du craft de 9 nuggets<br/>- lors d’événement |
+
+
+
+
